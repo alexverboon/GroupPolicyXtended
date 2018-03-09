@@ -1,4 +1,4 @@
-# GroupPolicyXtended
-PowerShell Module for Windows Group Policy Management
+# GroupPolicy Xtended
 
+PowerShell Module for Windows Group Policy Management
 
